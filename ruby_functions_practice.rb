@@ -55,3 +55,11 @@ b = "2".to_i
 return a+b
 
 end
+
+def volume_of_cube (a, b, c)
+return a*b*c
+end
+
+def fahrenheit_to_celsius()
+
+  end
