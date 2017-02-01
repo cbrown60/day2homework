@@ -61,5 +61,4 @@ return a*b*c
 end
 
 def fahrenheit_to_celsius()
-
-  end
+end

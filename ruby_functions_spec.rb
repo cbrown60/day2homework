@@ -81,7 +81,7 @@ class Functions_Practice < MiniTest::Test
 
   #Given a value in farenheit, convert this into celsius.
   def test_fahrenheit_to_celsius()
-    farenheit_to_celsius = 
+   
   end
 
  end
